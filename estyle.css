@@ -1,0 +1,23 @@
+div.overlay-image{
+  background-color: rgba(0,0,0,0);
+  position: absolute;
+  color: rgba(0,0,0,0);
+  width: 100%;
+  height: 100%;
+}
+h5.title1{
+  text-align: center;
+  font-family: monospace;
+  font-size: xx-large;
+  margin-top: 10%;
+  font-size: 50px;
+}
+h5.title{
+  font-family: monospace;
+  font-size: 50px;
+  text-align: center;
+}
+a.link:hover{
+  cursor: pointer;
+  color: darkblue;
+}
