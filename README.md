@@ -1,4 +1,4 @@
-<h2>The website for IIT (ISM) Gymkhana is hosted at <br> https://Sneha-511.github.io/ismClubs/ </h2>
+<h2>The website for IIT (ISM) Gymkhana is hosted at <br> https://Sneha-511.github.io/sg-website/ </h2>
 <br>    
  </p>
  <p> <h4>Instructions to use: <br> </h4>

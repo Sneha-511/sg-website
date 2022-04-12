@@ -21,7 +21,7 @@ function reset(){
 
 }
 
-searchInput.addEventListener("blur", setTimeOut(reset,1500));
+searchInput.addEventListener("blur", ()=> setTimeout(reset,1500));
 
 function search(e) {
     searchResults.innerHTML = "";
